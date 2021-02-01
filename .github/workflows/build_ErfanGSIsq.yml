@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://[2409:8a60:a824:32f0::539]:75/PDCM00_11_OTA_0220_all_ig03CfxN0SS3.zip
+  ROM_URL: https://6yun.cc/home?path=%2F
   ROM_NAME: ColorOS
   TZ: Asia/Shanghai
 
